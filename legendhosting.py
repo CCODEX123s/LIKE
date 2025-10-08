@@ -46,8 +46,8 @@ def keep_alive():
 
 # --- Configuration ---
 TOKEN = '8089176693:AAEm3JN6Lu9xgjJSZUBJIG20Yiz0u7VKmRg' # Replace with your actual token
-OWNER_ID = 6205220660 # Replace with your Owner ID
-ADMIN_ID = 6205220660 # Replace with your Admin ID (can be same as Owner)
+OWNER_ID = 8276114868 # Replace with your Owner ID
+ADMIN_ID = 8276114868 # Replace with your Admin ID (can be same as Owner)
 YOUR_USERNAME = '@CODEXPHPX'# Replace with your Telegram username (without the @)
 UPDATE_CHANNEL = 'https://t.me/codexx01' # Replace with your update channel link
 
@@ -101,7 +101,6 @@ ADMIN_COMMAND_BUTTONS_LAYOUT_USER_SPEC = [
     ["🔒 Lock Bot", "🟢 Running All Code"], # Changed "Free Mode" to "Running All Code"
     ["👑 Admin Panel", "📞 Contact Owner"]
 ]
-<
 # --- Database Setup ---
 def init_db():
     """Initialize the database with required tables"""
